@@ -26,8 +26,8 @@ import (
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/tidwall/gjson"
 
-	"github.com/apache/rocketmq-client-go/internal/utils"
-	"github.com/apache/rocketmq-client-go/primitive"
+	"github.com/mowang666/rocketmq-client/internal/utils"
+	"github.com/mowang666/rocketmq-client/primitive"
 )
 
 func TestHeartbeatData(t *testing.T) {

@@ -26,7 +26,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/apache/rocketmq-client-go/primitive"
+	"github.com/mowang666/rocketmq-client/primitive"
 )
 
 const (

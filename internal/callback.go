@@ -20,7 +20,7 @@ package internal
 import (
 	"net"
 
-	"github.com/apache/rocketmq-client-go/primitive"
+	"github.com/mowang666/rocketmq-client/primitive"
 )
 
 // remotingClient callback TransactionProducer

@@ -23,9 +23,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/apache/rocketmq-client-go"
-	"github.com/apache/rocketmq-client-go/consumer"
-	"github.com/apache/rocketmq-client-go/primitive"
+	"github.com/mowang666/rocketmq-client"
+	"github.com/mowang666/rocketmq-client/consumer"
+	"github.com/mowang666/rocketmq-client/primitive"
 )
 
 func main() {

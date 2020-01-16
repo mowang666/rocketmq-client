@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/apache/rocketmq-client-go"
-	"github.com/apache/rocketmq-client-go/consumer"
-	"github.com/apache/rocketmq-client-go/primitive"
-	"github.com/apache/rocketmq-client-go/rlog"
+	"github.com/mowang666/rocketmq-client"
+	"github.com/mowang666/rocketmq-client/consumer"
+	"github.com/mowang666/rocketmq-client/primitive"
+	"github.com/mowang666/rocketmq-client/rlog"
 )
 
 func main() {

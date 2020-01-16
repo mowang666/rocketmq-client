@@ -24,7 +24,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/apache/rocketmq-client-go/primitive"
+	"github.com/mowang666/rocketmq-client/primitive"
 )
 
 type QueueSelector interface {
